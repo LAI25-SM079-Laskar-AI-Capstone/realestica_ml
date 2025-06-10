@@ -29,7 +29,7 @@
 
 ## Dictionary Data yang sudah di cleaning
 - `description` : Deskripsi properti dalam bentuk teks, bisa berupa highlight atau ringkasan.
-- `facilities` : Fasilitas yang tersedia, biasanya dalam bentuk teks gabungan.
+- `facilities` : Fasilitas yang tersedia yang belum di extract/dipisahkan.
 - `monthly_installment_info` : Informasi tentang cicilan bulanan (jika ada skema cicilan).
 - `location` : Lokasi properti, biasanya berupa string alamat atau nama wilayah.
 - `nearby_points_of_interest` : Tempat-tempat penting yang dekat properti, seperti sekolah, pasar, dsb.
