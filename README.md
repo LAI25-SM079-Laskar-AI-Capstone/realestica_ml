@@ -1,6 +1,6 @@
 # Realestica Machine Learning
 
-Summary :
+Repository ini berfokus pada pengembangan model machine learning untuk memprediksi harga rumah di wilayah Jakarta dengan menggunakan fitur properti lengkap, termasuk spesifikasi rumah, fasilitas, dan lingkungan sekitar.
 
 ## Tahapan Tahapan Melakukan Cleaning Data
 1. Import Library
@@ -28,6 +28,9 @@ Summary :
 10. Melakukan Feature Selection
 11. Evaluasi
 12. Menyimpan Model
+
+## Profile Data yang Sudab di Cleaning
+Dataset ini terdiri dari 50464 baris dan 57 kolom fitur yang berisi informasi properti, fasilitas, spesifikasi dan lingkungan sekitar. 
 
 ## Dictionary Data yang sudah di cleaning
 - `description` : Deskripsi properti dalam bentuk teks, bisa berupa highlight atau ringkasan.
