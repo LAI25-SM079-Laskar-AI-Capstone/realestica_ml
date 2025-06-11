@@ -30,7 +30,7 @@ Repository ini berfokus pada pengembangan model machine learning untuk mempredik
 12. Menyimpan Model
 
 ## Profile Data yang Sudab di Cleaning
-Dataset ini terdiri dari 50464 baris dan 57 kolom fitur yang berisi informasi properti, fasilitas, spesifikasi dan lingkungan sekitar. 
+Dataset ini terdiri dari 50464 baris dan 57 kolom fitur yang berisi informasi properti, fasilitas, spesifikasi dan lingkungan sekitar di wilayah Jakarta. 
 
 ## Dictionary Data yang sudah di cleaning
 - `description` : Deskripsi properti dalam bentuk teks, bisa berupa highlight atau ringkasan.
