@@ -1,5 +1,7 @@
 # Realestica Machine Learning
 
+Summary :
+
 ## Tahapan Tahapan Melakukan Cleaning Data
 1. Import Library
 2. Gathering Data
